@@ -1,5 +1,5 @@
 # Machine-Learning Notebooks Directory
-## ~ Number of Notebooks - `6`
+## ~ Number of Notebooks - `7`
 
 ### 1. [Anime Face Creation](https://github.com/tejasvi541/Machine-Learning/blob/main/AnimeFacesGAN.ipynb)
 - Creating fake anime cases using GAN
@@ -20,10 +20,20 @@
 - Model Creation and Training is done using `Tensorflow`
 - [Author's Notebook](https://colab.research.google.com/drive/1sZER1_Q8WJFzdD3ZgfjZcRXTVhriCHaj?usp=sharing)
 
-### 5. [Breast Cancer Prediction](https://github.com/tejasvi541/Machine-Learning/blob/main/BreastCancerPredictions.ipynb) 
+### 5. [CNN Architectures](https://github.com/tejasvi541/Machine-Learning/blob/main/CNN_Architectures.ipynb)
+- Major CNN Architectures implemented
+  - LeNet
+  - VGG16
+  - GoogleNet (Inception Net)
+  - ResNet 
+- Model Creation and Training is done using `Pytorch`
+- All the Research Papers are provided in the notebook itself
+- Code is inspired & Written with the help of [Aladdin Persson](https://www.youtube.com/channel/UCkzW5JSFwvKRjXABI-UTAkQ) Youtube videos
+
+### 6. [Breast Cancer Prediction](https://github.com/tejasvi541/Machine-Learning/blob/main/BreastCancerPredictions.ipynb) 
 - Dataset used is from Builtin Breast Cancer DataSet in Sklearn
 - Model Creation and Training is done using `Scikit-Learn`
 
-### 6. [CIFAR10 Classification](https://github.com/tejasvi541/Machine-Learning/blob/main/CIFAR10Example.ipynb)
+### 7. [CIFAR10 Classification](https://github.com/tejasvi541/Machine-Learning/blob/main/CIFAR10Example.ipynb)
 - Dataset used is from Builtin CIFAR10 DataSet in Pytorch
 - Model Creation and Training is done using `Pytorch`
